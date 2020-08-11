@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597018537 source:c:\users\usuario\desktop\lenguajes de programacion\lenguaje c++\deber19\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
