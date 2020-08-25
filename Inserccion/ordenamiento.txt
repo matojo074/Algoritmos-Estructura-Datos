@@ -1,0 +1,4 @@
+Arreglo original: [22] [33] [44] [64] [75] [69] [1] [23] [77] [-7] 
+Arreglo ordenado: [-7] [1] [22] [23] [33] [44] [64] [69] [75] [77] 
+El total de elementos es: 10
+La suma tot  al de los elementos es: 401
