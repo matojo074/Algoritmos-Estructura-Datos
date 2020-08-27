@@ -1,2 +1,2 @@
-# Ordenamiento por inserccion
-Este algoritmo trata de ordenar los elementos de un arreglo sin orden con un valor CLAVE 
+# Interpolacion
+Este algoritmo es parecido al binario sin embargo mediante una funcion para encontrar el elemento medio se logra la busqueda del elemento. 
