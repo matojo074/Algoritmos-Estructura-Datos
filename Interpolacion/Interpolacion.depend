@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598545448 source:c:\users\usuario\desktop\lenguajes de programacion\lenguaje c++\interpolacion\main.cpp
+	<iostream>
+	<fstream>
+
