@@ -1,2 +1,2 @@
-# Ordenamiento por inserccion
-Este algoritmo trata de ordenar los elementos de un arreglo sin orden con un valor CLAVE 
+# Algoritmo de ordenamiento Mergesort
+Este algoritmo divide el arreglo hasta su minima expresion para luegor volver a construirlo de manera ordenada.
