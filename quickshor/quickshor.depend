@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599146927 source:c:\users\usuario\desktop\lenguajes de programacion\lenguaje c++\quickshor\main.cpp
+	<iostream>
+	<fstream>
+

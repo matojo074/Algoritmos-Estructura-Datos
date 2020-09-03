@@ -1,0 +1,9 @@
+Arreglo original: |65||73||2||3||1|
+Arreglo original: |5||4||8||2|
+Arreglo ordenado: |2||4||5||8|
+Nombre del algoritmo usado: QUICKSORT
+_______________________________________________________________
+Arreglo original: |87||43||76||1||9||2||3|
+Arreglo ordenado: |0||1||2||3||9||43||76|
+Nombre del algoritmo usado: QUICKSORT
+_______________________________________________________________
