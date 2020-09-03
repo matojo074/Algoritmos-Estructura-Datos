@@ -1,2 +1,2 @@
-# Ordenamiento por inserccion
-Este algoritmo trata de ordenar los elementos de un arreglo sin orden con un valor CLAVE 
+# Algoritmo Quicksort
+Este algoritmo ordena los elementos con la ayuda de un PIVOTE separando menores y mayores a sus lados respectivamente.
