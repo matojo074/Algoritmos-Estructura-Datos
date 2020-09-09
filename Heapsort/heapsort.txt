@@ -1,0 +1,2 @@
+Arreglo original: |12||43||54||3||2||1|
+Arreglo ordenado: |1||2||3||12||43||54|
