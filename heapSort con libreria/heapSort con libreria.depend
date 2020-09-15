@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600133780 source:c:\users\usuario\desktop\lenguajes de programacion\lenguaje c++\heapsort con libreria\main.cpp
+	<iostream>
+	"heapSort.h"
+
+1600133754 c:\users\usuario\desktop\lenguajes de programacion\lenguaje c++\heapsort con libreria\heapsort.h
+
